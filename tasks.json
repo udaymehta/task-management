@@ -1,0 +1,22 @@
+[
+    {
+        "task": "Lunch",
+        "time": "12:30",
+        "completed": false
+    },
+    {
+        "task": "Wake Up",
+        "time": "04 : 30",
+        "completed": true
+    },
+    {
+        "task": "College",
+        "time": "07 : 30",
+        "completed": false
+    },
+    {
+        "task": "Home",
+        "time": "03 : 15",
+        "completed": false
+    }
+]
